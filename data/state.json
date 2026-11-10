@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "active_profile_id": "p_0ce075ab",
+  "settings": {
+    "refresh_minutes": 5,
+    "reminder_enabled": true,
+    "reminder_time": "09:30",
+    "snooze_until": null,
+    "last_notified": "2026-11-10",
+    "window_geometry": "1180x800+1330+571",
+    "autostart": false,
+    "backtest_range": "3y"
+  },
+  "profiles": [
+    {
+      "name": "我的组合",
+      "qqq_shares": 35.0,
+      "schd_shares": 626.0,
+      "target_ratio": 0.5,
+      "threshold": 0.05,
+      "interval_days": 31,
+      "last_rebalance_date": "2026-11-10",
+      "history": [],
+      "created_at": "2026-11-10 16:20:16",
+      "id": "p_0ce075ab"
+    }
+  ]
+}
